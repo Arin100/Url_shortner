@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.flipkart.com/mi-5x-108-cm-43-inch-ultra-hd-4k-led-smart-android-tv-dolby-atmos-vision/p/itm2608f13684202?pid=TVSG5ZGZGZGDJBC3&lid=LSTTVSG5ZGZGZGDJBC3XCNNJG&marketplace=FLIPKART&store=ckf%2Fczl&srno=b_1_2&otracker=clp_banner_1_16.bannerX3.BANNER_tv-and-appliances-big-billion-days-sale-store_OPDS8ZLYBJQ3&fm=neo%2Fmerchandising&iid=e8a69d7f-4c66-4502-ab30-1bcaf8d32a57.TVSG5ZGZGZGDJBC3.SEARCH&ppt=clp&ppn=tv-and-appliances-big-billion-days-sale-store&ssid=o3zghtlv4w0000001633341835171"
+}
